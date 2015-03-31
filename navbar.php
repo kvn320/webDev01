@@ -18,11 +18,15 @@
 				 <li class="dropdown">
         			  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="caret"></span></a>
          				 <ul class="dropdown-menu" role="menu">
-          					  <li><a href="#">Web App Development</a></li>
+          					  <li><a href="#"><h5>Software Development</h5></a></li>
           					  <li class="divider"></li>
-          					   <li><a href="#">Ios App Development</a></li>
+          					   <li><a href="#"><h5>Mobile Application Development</h5></a></li>
+          					   <li class="divider"></li>
+          					   <li><a href="#"><h5>Web Application Development</h5></a></li>
+          					  <li class="divider"></li>
+          					   <li><a href="#"><h5>Softwre Testing</h5></a></li>
           				 </ul
-			</ul>
+			</ul>i
 			
 		</div>
 	</div>	
@@ -36,7 +40,7 @@
 					<ul class="nav navbar-nav  col-md-offset-8">
 						<li ><a href="#" onclick="return false" onmousedown="javascript:swapContent('home');"><h4>Home</h4></a></li>
 						<li ><a href="#" onclick="return false" onmousedown="javascript:swapContent('aboutUS');"><h4>About</h4> </a></li>				
-						<li ><a href="#contact"><h4>Contact Us</h4></a></li>				
+						<li ><a href="#" onclick="return false" onmousedown="javascript:swapContent('technologies')"><h4>Technologies</h4></a></li>				
 						<li ><a href="index.php"><h4>Services<h4></a></li>
 							
 						<li ><a href="index.php"><h4>Contact Us</h4></a></li>

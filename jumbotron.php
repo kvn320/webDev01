@@ -1,14 +1,15 @@
 <div class="jumbotron no-margin">
   <div class="container">
     <h2>ABOUT US</h2>
-    <p>Airreight is a premier IT company located in Bangalore providing offshore IT outsourcing solutions to businesses across the globe. 
-    	Airreight provides enterprise solutions that include software solutions, web solutions, mobile application solutions,
-    	Internet marketing and a whole gamut of IT solutions and products to clients. 
-    	Leveraging the innate offshore value advantage of our development center in Bangalore, we provide customized, 
-        scalable and cost effective solutions to businesses. We provide solutions that streamline business processes and galvanize enterprise productivity.
-    	With well-structured development methodologies, Global Delivery Model and rigid QA systems, we deliver business-critical solutions on-time, 
-    	within budgets and within desired levels of performance.
-
+    <p>Airreight Technologies is an emerging IT solutions company Headquartered in Bangalore, India. 
+    We offer complete services with focus in Software Development, Software testing, Web Designing, 
+    Mobile Applications, e-Commerce Applications, Internet/Intranet Applications.
+     Airreight, we recognize our clients' needs and develop software to meet customers' requirements.
+      We are dedicated to deliver eminence solutions to our clients with quick and money-spinning services. 
+      Our credibility, commitment and potential to develop, optimize and host web applications remotely are proven by our any-where, any-time, 
+      any device access web-based and mobile software solutions deliver. 
+      We do business in a highly economical manner and provide superior quality services with deadline discipline.
+       We have unmatched aptitude who is dedicated to their areas of expertise.
 
 
 
