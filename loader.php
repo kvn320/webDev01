@@ -7,5 +7,4 @@ if ($pageVar=="home") {
 		include("jumbotron.php");
 }
 
-
 ?>
