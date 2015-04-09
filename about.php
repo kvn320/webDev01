@@ -22,18 +22,15 @@
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 
    </p>
   </div>
 </div>
-<?php include("footer.php"); ?>
+
+
 
 <script src="bootstrap/js/jquery-1.11.2.min.js"></script>  
 <script src="bootstrap/js/bootstrap.js"></script>

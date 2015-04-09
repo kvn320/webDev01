@@ -15,14 +15,10 @@
 
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 
    </p>
   </div>
 </div>
-<?php include("footer.php"); ?>

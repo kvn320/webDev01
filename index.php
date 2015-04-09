@@ -11,7 +11,7 @@
 	<?php include("carousel.php"); ?>
 </div>
 
-
+<?php include("mission.php"); ?>
 
 <?php include("footer.php"); ?> 
 
